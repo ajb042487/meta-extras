@@ -1,0 +1,8 @@
+meta-extras
+-----------
+
+NOTE: meta-extras is not intended to actually be used as a layer; many
+recipes it contains won't parse correctly. If you need a recipe from
+here, you should copy it individually into another appropriate layer and
+then fix it as needed.
+
